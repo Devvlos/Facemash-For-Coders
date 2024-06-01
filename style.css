@@ -1,0 +1,99 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.header{
+    display: block;
+    background-color: brown;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 8px 0px;
+    margin-top: 0;
+}
+
+.container{
+    display: block;
+    text-align: center;
+}
+
+#caption {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#choose-title{
+    margin-top: 4px;
+    font-size: 48px;
+}
+
+.photos{
+    display: table;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+#left,
+#right {
+    width: 450px;
+    height: 500px;
+    object-fit: cover;
+}
+
+#left:hover,
+#right:hover {
+    cursor: pointer;
+}
+
+#or{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/* Leaderboard styles */
+.leaderboard {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.leaderboard h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.leaderboard ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.leaderboard ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.leaderboard img {
+    width: 50px; 
+    height: 50px; 
+    object-fit: cover;
+    margin-right: 10px;
+    border-radius: 50%; /* Makes images circular, remove if not desired */
+}
+
+/* Adjustments for accessibility and visual alignment */
+.leaderboard span {
+    font-size: 16px;
+}
+
