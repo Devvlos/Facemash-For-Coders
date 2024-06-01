@@ -1,5 +1,5 @@
 <h1 align="center">Facemash-For-Coders</h1>
-<h3 align="center"> Facemash-For-Coders is a remake of Mark Zuckerberg's Facemash from 2003 But Here We Dont Have To Rate Girls Instead Here We Have To Rate Our Indian Coder</h3>
+<h3 align="center"> Facemash-For-Coders is a remake of Mark Zuckerberg's Facemash from 2003 But Here We Dont Have To Rate Girls Instead Here We Have To Rate Our Indian Coders.</h3>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/Facemash-For-Coders)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://facemash-for-coders.vercel.app/)
@@ -27,7 +27,7 @@ https://github.com/Devvlos/Facemash-For-Coders/assets/146619192/46b53207-a614-4a
 
 ## 💡 About the project
 
-Facemash-For-Coders is a remake of Mark Zuckerberg's Facemash from 2003 But Here We Dont Have To Rate Girls Instead Here We Have To Rate Our Indian Coder.
+Facemash-For-Coders is a remake of Mark Zuckerberg's Facemash from 2003 But Here We Dont Have To Rate Girls Instead Here We Have To Rate Our Indian Coders.
 
 - [Demo](https://facemash-for-coders.vercel.app/)
 
