@@ -86,22 +86,44 @@ function updateLeaderboard() {
 // Initial call to display leaderboard
 document.addEventListener("DOMContentLoaded", updateLeaderboard);
 
-document.getElementById("left").addEventListener("click", function () {
+let leftImage = () => {
   let prevWinnerId = left.getAttribute("data-id"); // Previous winner
   let excludeIds = [prevWinnerId, right.getAttribute("data-id")]; // Exclude current and opponent
   rightNum = getImage(excludeIds); // Get new opponent
   right.setAttribute("src", ratings[rightNum].src);
   right.setAttribute("data-id", rightNum);
   updateRatings(prevWinnerId, right.getAttribute("data-id"));
+};
+
+document.getElementById("left").addEventListener("click", function () {
+  leftImage();
 });
 
-document.getElementById("right").addEventListener("click", function () {
+document.addEventListener("keydown", function (event) {
+  // Check if the Enter key is pressed
+  if (event.key === "1") {
+    leftImage();
+  }
+});
+
+const rightImage = () => {
   let prevWinnerId = right.getAttribute("data-id"); // Previous winner
   let excludeIds = [prevWinnerId, left.getAttribute("data-id")]; // Exclude current and opponent
   leftNum = getImage(excludeIds); // Get new opponent
   left.setAttribute("src", ratings[leftNum].src);
   left.setAttribute("data-id", leftNum);
   updateRatings(prevWinnerId, left.getAttribute("data-id"));
+};
+
+document.getElementById("right").addEventListener("click", function () {
+  rightImage();
+});
+
+document.addEventListener("keydown", function (event) {
+  // Check if the Enter key is pressed
+  if (event.key === "2") {
+    rightImage();
+  }
 });
 
 // Initial call to display leaderboard
