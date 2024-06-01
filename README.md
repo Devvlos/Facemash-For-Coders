@@ -1,10 +1,10 @@
 <h1 align="center">Facemash-For-Coders</h1>
-<h3 align="center">This is an open source project that serves as a free alternative to the Popular Tier-Maker Website But Free, Easier And Simple With No Ads And Promise Aditionals Features With More Faster Response Time</h3>
+<h3 align="center"> Facemash-For-Coders is a remake of Mark Zuckerberg's Facemash from 2003 But Here We Dont Have To Rate Girls Instead Here We Have To Rate Our Indian Coder</h3>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/Facemash-For-Coders)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://facemash-for-coders.vercel.app/)
 [![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://twitter.com/Devlos_)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%20Aprilr%202024-yellow.svg)](https://github.com/Devvlos/Facemash-For-Coders)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-01%20June%202024-yellow.svg)](https://github.com/Devvlos/Facemash-For-Coders)
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,16 +18,13 @@
 
 https://github.com/Devvlos/Facemash-For-Coders/assets/146619192/870dad53-7562-4a9b-a096-1515fc11d0de
 
-<p>Here is The Downloaded Image👇</p>
-<img alt="screenshot" src="assets/Demo.png">
-
 </p>
 
 ---
 
 ## 💡 About the project
 
-This is an open source project that serves as a free alternative to the Popular Tier-Maker Website But Free, Easier And Simple With No Ads
+Facemash-For-Coders is a remake of Mark Zuckerberg's Facemash from 2003 But Here We Dont Have To Rate Girls Instead Here We Have To Rate Our Indian Coder.
 
 - [Demo](https://facemash-for-coders.vercel.app/)
 
