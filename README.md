@@ -52,4 +52,4 @@ git clone https://github.com/Devvlos/Facemash-For-Coders.git
 
 Once your pull request has been merged, you can delete your branch.
 
-Made By Devlos :wave: [Contact](https://twitter.com/Devlos_)
+Made By Devlos :wave: [Contact](https://twitter.com/DevlosX)
